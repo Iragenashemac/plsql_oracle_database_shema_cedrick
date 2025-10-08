@@ -135,7 +135,7 @@ OEM configured and accessible on **port 5505**.
 
 Screenshot:
 
-![Screenshot](screenshots/assign4.png)
+![Screenshot](screenshots/assign6.png)
 
 
 <br><br><br><br>
