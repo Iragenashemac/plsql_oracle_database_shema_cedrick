@@ -42,6 +42,14 @@ The database was successfully created, opened, and saved in a persistent open st
 
 ---
 
+Screenshot:
+
+![Screenshot](screenshots/9.png)
+
+
+<br><br><br><br>
+
+
 ## 🗑️ Task 2: Create and Delete a PDB
 
 **Objective:**  
@@ -80,6 +88,21 @@ It was resolved by **directly issuing the DROP command** without closing again.
 Created and deleted successfully after resolving the close issue.
 
 ---
+Screenshot: Pluggable database created
+
+![Screenshot](screenshots/9.png)
+
+
+<br><br><br><br>
+
+Screenshot: Pluggable database droped
+
+![Screenshot](screenshots/9.png)
+
+
+<br><br><br><br>
+
+
 
 ## 🖥️ Task 3: Oracle Enterprise Manager (OEM)
 
@@ -109,6 +132,14 @@ Configure and access Oracle Enterprise Manager (OEM) and verify the dashboard.
 OEM configured and accessible on **port 5505**.
 
 ---
+
+Screenshot:
+
+![Screenshot](screenshots/9.png)
+
+
+<br><br><br><br>
+
 
 ## ⚙️ Issues Encountered and Solutions
 
