@@ -88,14 +88,14 @@ It was resolved by **directly issuing the DROP command** without closing again.
 Created and deleted successfully after resolving the close issue.
 
 ---
-Screenshot: Pluggable database created
+Screenshot: ✅Pluggable database created
 
 ![Screenshot](screenshots/assign3.png)
 
 
 <br><br><br><br>
 
-Screenshot: Pluggable database droped
+Screenshot: ✅Pluggable database droped
 
 ![Screenshot](screenshots/assign5.png)
 
@@ -135,7 +135,7 @@ OEM configured and accessible on **port 5505**.
 
 Screenshot:
 
-![Screenshot](screenshots/assign4.png)
+![Screenshot](screenshots/assign6.png)
 
 
 <br><br><br><br>
