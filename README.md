@@ -44,7 +44,7 @@ The database was successfully created, opened, and saved in a persistent open st
 
 Screenshot:
 
-![Screenshot](screenshots/9.png)
+![Screenshot](screenshots/assign2.png)
 
 
 <br><br><br><br>
@@ -90,14 +90,14 @@ Created and deleted successfully after resolving the close issue.
 ---
 Screenshot: Pluggable database created
 
-![Screenshot](screenshots/9.png)
+![Screenshot](screenshots/assign3.png)
 
 
 <br><br><br><br>
 
 Screenshot: Pluggable database droped
 
-![Screenshot](screenshots/9.png)
+![Screenshot](screenshots/assign5.png)
 
 
 <br><br><br><br>
@@ -135,7 +135,7 @@ OEM configured and accessible on **port 5505**.
 
 Screenshot:
 
-![Screenshot](screenshots/9.png)
+![Screenshot](screenshots/assign4.png)
 
 
 <br><br><br><br>
